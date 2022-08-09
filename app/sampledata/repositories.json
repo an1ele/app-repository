@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": "01",
+      "name": "android-DocumentCentricApps",
+      "owner": {
+        "login": "an1ele",
+        "avatar_url": "https://avatars.githubusercontent.com/u/104266275?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/an1ele/app-repository",
+      "description": "Aplicativo que mostra os repositórios no GitHub"
+    }
+  ]
+}
